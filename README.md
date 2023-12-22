@@ -60,5 +60,5 @@ where <file> is the name of the file
 # AUTHORS  
 ### This file lists all individuals having contributed content to the repository.
 ```
-Ananeya Tekalign <ananeyap@gmail.com>
+Bisrat Gizaw <bisratgizaw0@gmail.com>
 ```
